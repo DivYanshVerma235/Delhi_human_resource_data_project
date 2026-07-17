@@ -23,34 +23,33 @@ Merging all datasets
 
 ### Statistical Analysis
 
-- Descriptive Statistics
-- Data Visualization
-- Normalization
-- Correlation Analysis
-- Principal Component Analysis (PCA)
+  Descriptive Statistics
+  Data Visualization
+  Normalization
+  Correlation Analysis
+  Principal Component Analysis (PCA)
 
 
 
 ## Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+  Python
+  Pandas
+  NumPy
+  Matplotlib
+  Scikit-learn
+  Jupyter Notebook
 
 
 ## Project Structure
 
-```
 raw_data/
 processed_data/
 crime_module_1.ipynb
 demography_module_2.ipynb
 economy_module_3.ipynb
 merger_module.ipynb
-```
+
 
 ---
 
